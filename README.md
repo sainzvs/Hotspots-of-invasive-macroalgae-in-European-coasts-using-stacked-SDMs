@@ -50,7 +50,7 @@ Model implementation can be found in:
 
 This product should be cited as:
 
-Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. (2026) Hotspots of invasive macroalgae in European coasts using stacked-SDMs. Data product created under the European Marine Observation Data Network (EMODnet) Biology Phase V.
+Sainz-Villegas, S., Ramos, E., de la Hoz, C.F., Puente, A., Juanes, J.A. (2026) Hotspots of invasive macroalgae in European coasts using stacked-SDMs. Data product created under the European Marine Observation Data Network (EMODnet) Biology Phase V.
 
 Available to download in:
 
@@ -62,4 +62,4 @@ EMODnet viewer=>
 
 ### Authors
 
-Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. 
+Sainz-Villegas, S., Ramos, E., de la Hoz, C.F., Puente, A., Juanes, J.A. 
