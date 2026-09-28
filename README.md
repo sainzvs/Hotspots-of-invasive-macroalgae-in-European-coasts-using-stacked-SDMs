@@ -19,8 +19,8 @@ The increasing introduction and spread of non-native marine macroalgae in Europe
 ## Data series
 
 The data series used in this product have been downoladed from EMODnet Biology, EMODnet Bathymetry, EMODnet Seabed Habitats, OBIS, GBIF and Bio-Oracle. The scripts used to obtain this data are included here:
-(01_Download_Presences.R)
-(02_Download_Variables.R)
+- 01_Download_Presences.R
+- 02_Download_Variables.R
 
 ## Data product
 
